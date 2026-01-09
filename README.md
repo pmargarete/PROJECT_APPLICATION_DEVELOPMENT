@@ -33,7 +33,7 @@ Quad-core processor
 No internet required (fully offline)
 
 ## Sample
-<img width="1257" height="601" alt="494820823_1243428267242479_1248836730737551530_n" src="https://github.com/user-attachments/assets/19a7030d-db6f-437c-8f5f-f404eb127735" />
-<img width="1177" height="359" alt="508329259_1202635051638113_1159232294504196279_n" src="https://github.com/user-attachments/assets/8958fcff-87b4-4919-a0b6-1080b0ce3cc7" />
+<img width="1257" height="1500" alt="494820823_1243428267242479_1248836730737551530_n" src="https://github.com/user-attachments/assets/19a7030d-db6f-437c-8f5f-f404eb127735" />
+<img width="1177" height="550" alt="508329259_1202635051638113_1159232294504196279_n" src="https://github.com/user-attachments/assets/8958fcff-87b4-4919-a0b6-1080b0ce3cc7" />
 
 
